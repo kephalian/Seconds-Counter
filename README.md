@@ -11,6 +11,8 @@ This is a simple wxPython application that counts the number of seconds elapsed 
 
 ![App_Sceenshot2](screenshot2.png)
 
+[Download from Release Section](https://github.com/kephalian/Seconds-Counter/releases)
+
 
 ## Features
 
@@ -113,7 +115,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Download
 
-You can download the executable file from the [releases](https://github.com/yourusername/seconds-counter/releases) section.
+You can download the executable file from the [releases](https://github.com/kephalian/Seconds-Counter/releases) Section 
 
 ## Contributing
 
